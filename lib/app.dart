@@ -5,7 +5,6 @@ import 'screens/home_screen.dart';
 
 class RecipelyApp extends StatelessWidget {
   const RecipelyApp({super.key});
-  String c = 5;
   
   @override
   Widget build(BuildContext context) {
